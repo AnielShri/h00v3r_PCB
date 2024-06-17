@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "STM32H723ZGT6")(type "KiCad")(uri "F:/Users/Aniel/Documents/dev/stm32/h00v3r/h00v3r_PCB/footprints/STM32H723ZGT6_footprints.pretty")(options "")(descr ""))
+)

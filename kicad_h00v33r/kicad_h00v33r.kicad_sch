@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "eacc50d8-8f37-499c-bdc5-63fc65cec568")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 127.635 67.945)
+		(size 26.615 31.055)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4cfed190-db6f-4bff-b92a-b36a3b515167")
+		(property "Sheetname" "Main_MCU"
+			(at 127.635 67.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main_mcu.kicad_sch"
+			(at 127.635 99.5834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "kicad_h00v33r"
+				(path "/eacc50d8-8f37-499c-bdc5-63fc65cec568"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
