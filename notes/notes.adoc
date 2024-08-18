@@ -1,0 +1,6 @@
+= PCB Notes
+
+
+== Main MCU
+
+STM32H723ZGT6
